@@ -1,6 +1,5 @@
 streamlit==1.33.0
 pandas==2.2.2
 plotly==5.20.0
-sqlite3-binary
 xlsxwriter==3.2.0
 streamlit-option-menu==0.3.6
